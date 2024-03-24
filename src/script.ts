@@ -4,7 +4,7 @@ import Menu from "./menu.js";
 import Orders from "./orders.js";
 
 // default url
-const BASE_URL = '/12aBM/_TypeScript/project';
+const BASE_URL = 'https://bokamatyas.github.io/Restaurant_project';
 // oldalak helye:
 const rootDiv: any = document.querySelector('#root');
 // nav-ok:
